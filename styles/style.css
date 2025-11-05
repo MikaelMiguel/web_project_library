@@ -134,6 +134,7 @@
   row-gap: 40px;
   padding: 0px;
   list-style-type: none;
+  justify-content: center;
 }
 
 .card {
